@@ -82,7 +82,19 @@ The dataset can be accessed [find it here](https://github.com/Ugondu/DataCareerP
 To refine and normalise the data available, the following steps are followed;
 
 1. Remove columns that are not relevant to the analysis
+
+
+
 2. Create "Average Salary" column by splitting the "Salary" column using the "Split Column" function
+
+
+
+![image](https://github.com/user-attachments/assets/850b397e-243a-468c-ba74-b5c1b1dcf99b)
+
+
+
+
+
 3. For columns with "others: specify" option, we split and group all to "Others" using split column function
 
 
