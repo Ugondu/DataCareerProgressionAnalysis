@@ -153,8 +153,7 @@ From the data ganerated from the survey, we derived insights based on the follow
 
 #### 4. What are the country of the participants?
 
-| Rank | Country                | Percentage        
-|
+| Rank | Country                | Percentage         |
 |------|------------------------|--------------------|
 | 1    | USA                    | 261                | 
 | 2    | Other                  | 224                |
