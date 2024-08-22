@@ -98,6 +98,11 @@ To refine and normalise the data available, the following steps are followed;
 3. For columns with "others: specify" option, we split and group all to "Others" using split column function
 
 
+
+![image](https://github.com/user-attachments/assets/aac0e2fe-fec4-44a3-8770-ef688c76a69e)
+
+
+
 # Visualization
 
 
